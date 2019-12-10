@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-10T07:34:32.983Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="F_UKQ-L9ekm2El7zxcit" version="12.3.8" type="github" pages="10">
+<mxfile modified="2019-12-10T07:35:54.323Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="8ds4JW9mOjALhV3Piwbd" version="12.3.8" type="github" pages="10">
   <diagram id="ZlDLgHgnr44uqegOqnVZ" name="Page-1">
     <mxGraphModel dx="1666" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1425,17 +1425,17 @@
         <mxCell id="L4tvk3GR2HH5vPK1Fd-W-29" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#FF6666;" edge="1" parent="L4tvk3GR2HH5vPK1Fd-W-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-210" y="450" as="sourcePoint"/>
-            <mxPoint x="530" y="40" as="targetPoint"/>
+            <mxPoint x="440" y="90" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="L4tvk3GR2HH5vPK1Fd-W-30" value="想定出願 KGI = CS卒年 資料請求数 X&amp;nbsp;出願CVR(サンプリング校から集計推定値)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="L4tvk3GR2HH5vPK1Fd-W-1">
-          <mxGeometry x="455" y="45" width="450" height="20" as="geometry"/>
+          <mxGeometry x="470" y="45" width="450" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="L4tvk3GR2HH5vPK1Fd-W-31" value="年プレ卒年" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="L4tvk3GR2HH5vPK1Fd-W-1">
           <mxGeometry x="290" y="110" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="L4tvk3GR2HH5vPK1Fd-W-32" value="CS卒年 資料請求件数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="L4tvk3GR2HH5vPK1Fd-W-1">
-          <mxGeometry x="460" y="70" width="130" height="20" as="geometry"/>
+        <mxCell id="L4tvk3GR2HH5vPK1Fd-W-32" value="CS卒年 資料請求件数&lt;br&gt;ネット・情報誌・学習" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="L4tvk3GR2HH5vPK1Fd-W-1">
+          <mxGeometry x="475" y="65" width="140" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
