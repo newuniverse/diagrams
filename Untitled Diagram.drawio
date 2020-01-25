@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-25T05:32:06.686Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Si2RIJrl4msIuufCwyKN" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-25T05:51:36.439Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="uuHOlxGb3uo0cwUIbrUi" version="12.5.6" type="github">
   <diagram id="3NKYa5tas9-b_GpQdYaY" name="GH">
     <mxGraphModel dx="1923" dy="1031" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0"/>
         <mxCell id="mH176XfYf9VPQPwhGffp-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-158" y="-45" width="838" height="562" as="geometry"/>
+        </mxCell>
+        <mxCell id="nTEPxQgWMXdYcWZxNOJb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="mH176XfYf9VPQPwhGffp-17" target="nTEPxQgWMXdYcWZxNOJb-14">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="mH176XfYf9VPQPwhGffp-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-146.5" y="79" width="261" height="290" as="geometry"/>
@@ -57,8 +60,8 @@
         <mxCell id="mH176XfYf9VPQPwhGffp-13" value="&lt;span style=&quot;font-size: 14px ; white-space: normal&quot;&gt;聖域への寄付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-124.5" y="314" width="217" height="46" as="geometry"/>
         </mxCell>
-        <mxCell id="mH176XfYf9VPQPwhGffp-19" value="1. 初回は６つのクラスから選択&amp;nbsp;&lt;br&gt;2. 個人クエストカードを２枚ランダムに受け取り１枚選択&lt;br&gt;3. レベル(L)を ≦ 街の「繁栄レベル」まで上げてよい&lt;br&gt;4. 所持金【15x(L+1) 】Gを受け取る&lt;br&gt;5. キャラクター記録用紙に記入" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-548" y="-85" width="335" height="89" as="geometry"/>
+        <mxCell id="mH176XfYf9VPQPwhGffp-19" value="1. 初回は６つのクラスから選択&amp;nbsp;&lt;br&gt;2. 個人クエストカードを２枚ランダムに受け取り１枚選択&lt;br&gt;3. レベル(L)を ≦ 街の「繁栄レベル」まで上げてよい&lt;br&gt;4. 所持金【15x(L+1) 】Gを受け取る&lt;br&gt;5. キャラクター記録用紙に記入&lt;br&gt;6. プレイヤーごとに累計で引退させたキャラクターの数だけ、新規に作成したキャラクターに特典を追加可能" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-548" y="-86" width="335" height="118" as="geometry"/>
         </mxCell>
         <mxCell id="mH176XfYf9VPQPwhGffp-26" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-374" y="-80" width="138.07000000000005" height="19" as="geometry"/>
@@ -82,9 +85,9 @@
           <mxGeometry x="25.720000000000027" y="0.04999999999999716" width="19.09" height="18.9" as="geometry"/>
         </mxCell>
         <mxCell id="mH176XfYf9VPQPwhGffp-28" value="1. 半額(端数切捨)でアイテム売却可&lt;br&gt;2. 売却されたアイテムは街の在庫に追加&lt;br&gt;3. 同じキャラクターが複数の同じアイテムは保有不可&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-547" y="19" width="335" height="89" as="geometry"/>
+          <mxGeometry x="-548" y="45" width="335" height="89" as="geometry"/>
         </mxCell>
-        <mxCell id="mH176XfYf9VPQPwhGffp-29" value="1. シナリオやイベントで「アイテム設計」の報酬獲得後、指定種類の全カードを在庫に追加&lt;br&gt;&lt;br&gt;2. 右表の街の「繁栄レベル」に従い、アイテムカードを在庫に追加&lt;br&gt;&lt;br&gt;3. 引退したキャラクターの全アイテムは在庫になる" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
+        <mxCell id="mH176XfYf9VPQPwhGffp-29" value="1. シナリオやイベントで「アイテム設計」の報酬獲得後、指定種類の全カードを在庫に追加&lt;br&gt;&lt;br&gt;2. 表の街の「繁栄レベル」に従い、アイテムカードを在庫に追加&lt;br&gt;&lt;br&gt;3. 引退したキャラクターの全アイテムは在庫になる" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
           <mxGeometry x="154" y="-253" width="180" height="181" as="geometry"/>
         </mxCell>
         <mxCell id="mH176XfYf9VPQPwhGffp-30" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;繁栄レベル&lt;/td&gt;&lt;td&gt;アイテムカード番号&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;001-014&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;015-021&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;022-028&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;029-035&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;036-042&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;043-049&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;050-056&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;057-063&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;064-070&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;align=center;" parent="1" vertex="1">
@@ -97,19 +100,25 @@
           <mxGeometry x="157" y="-33" width="217" height="46" as="geometry"/>
         </mxCell>
         <mxCell id="mH176XfYf9VPQPwhGffp-32" value="1. 街でのみレベルアップ可能&lt;br&gt;2. 表の経験点に従いレベルアップ&lt;br&gt;3. レベルアップごとに&lt;br&gt;　a. 新能力カード１枚を使用可能に&lt;br&gt;　b. キャラクター記録用紙の「特典」１つにチェック&lt;br&gt;　c. キャラクターの最大HPを上昇させる&lt;br&gt;4. シナリオ完遂時「戦闘任務」も完遂した場合、指定の数のチェックマークを獲得し、３つごとに「特典」１つにチェック&lt;br&gt;5. 手札上限に一致するだけの能力カードを選別&lt;br&gt;（能力向上をした能力カードは街の「繁栄レベル」以下枚数しか手札に追加できない）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-548" y="121" width="335" height="174" as="geometry"/>
+          <mxGeometry x="-549" y="147" width="335" height="174" as="geometry"/>
         </mxCell>
         <mxCell id="mH176XfYf9VPQPwhGffp-33" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;レベル&lt;/td&gt;&lt;td&gt;経験点&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;45&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;95&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;150&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;210&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;275&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;345&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;420&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;500&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-730" y="121" width="179" height="176" as="geometry"/>
+          <mxGeometry x="-731" y="147" width="179" height="176" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-1" value="1. GHへの訪問１回ごとに「大樽の聖域」に10Gに寄付可&lt;br&gt;次のシナリオにおいて攻撃修正の山に祝福カードx2を追加" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-547" y="491" width="335" height="58" as="geometry"/>
+          <mxGeometry x="-548" y="517" width="335" height="58" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-7" value="1. 街のイベント山から１枚引き、表面の文章を読む&lt;br&gt;2. ２つの選択肢からパーティで決定し、裏返して、結果を適用する（更に結果がクラスや名声によって分岐する場合がある）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-547" y="418" width="335" height="60" as="geometry"/>
+          <mxGeometry x="-548" y="444" width="335" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-9" value="1. 世界の変革&amp;lt;向上の力&amp;gt;が発生しているなら、ゴールドを消費して能力カードの効果を向上させることができる。&lt;br&gt;2. 向上効果はそのキャラクタークラスにずっと受け継がれる&lt;br&gt;（引退して、新規に同キャラクターを作成した場合も）&lt;br&gt;必要ゴールドは説明書p46-47参照" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-548" y="311" width="334" height="99" as="geometry"/>
+          <mxGeometry x="-549" y="337" width="334" height="99" as="geometry"/>
+        </mxCell>
+        <mxCell id="nTEPxQgWMXdYcWZxNOJb-14" value="&lt;span style=&quot;font-size: 14px&quot;&gt;キャラクター引退表明&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-124.5" y="406" width="217" height="46" as="geometry"/>
+        </mxCell>
+        <mxCell id="nTEPxQgWMXdYcWZxNOJb-16" value="1. 個人クエストを完遂した場合&lt;br&gt;　a. 保有しているアイテムを街の在庫へ戻す&lt;br&gt;　b. 保有ゴールドを失う&lt;br&gt;　c. 街の「繁栄度」+1&lt;br&gt;　d. 個人クエストカードはゲームから除外&lt;br&gt;&lt;br&gt;2. そのクラスの最初の引退の場合、キャラボード背面の右下にある ?/ ! (!の数字)と、そのクラスの引退によって初めて解放されたクラスの?/ ! (?の数字)の以下を解放&lt;br&gt;　a. 街イベントを解放&lt;br&gt;&amp;nbsp; &amp;nbsp; b. 野外イベントを解放&lt;br&gt;&lt;br&gt;3. キャラクターの引退により解放される「封印の箱」「封書」が他の理由ですでに解放されていた場合、以下を解放&lt;br&gt;　a. ランダム・「アイテム設計」1&lt;br&gt;　b. ランダム・「サイド・シナリオ」1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-152" y="539" width="331" height="259" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
