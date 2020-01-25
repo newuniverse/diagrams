@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-25T15:28:18.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="dZav7h4VUOJzMTbVnnf-" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-25T15:50:46.670Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="_Jnml6ekbBSJBEpdFZIN" version="12.5.6" type="github">
   <diagram id="3NKYa5tas9-b_GpQdYaY" name="GH">
-    <mxGraphModel dx="3046" dy="2063" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2110" dy="1537" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -199,20 +199,26 @@
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-55" value="0. 初期の野外イベントは001-030&lt;br&gt;1. 野外のイベント山から１枚引き、表面の文章を読む&lt;br&gt;2. ２つの選択肢からパーティで決定し、裏返して、結果を必ず適用する（更に結果がクラスや名声によって分岐する場合がある）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
           <mxGeometry x="314.5" y="95" width="230" height="104" as="geometry"/>
         </mxCell>
+        <mxCell id="3f2KEundYw5zqV8YlQde-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nTEPxQgWMXdYcWZxNOJb-56" target="3f2KEundYw5zqV8YlQde-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-56" value="&lt;span style=&quot;font-size: 14px&quot;&gt;場のセットアップ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="731" y="-93" width="217" height="46" as="geometry"/>
         </mxCell>
-        <mxCell id="nTEPxQgWMXdYcWZxNOJb-57" value="&lt;span style=&quot;font-size: 14px&quot;&gt;シナリオのセットアップ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="3f2KEundYw5zqV8YlQde-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nTEPxQgWMXdYcWZxNOJb-57" target="nTEPxQgWMXdYcWZxNOJb-69">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="nTEPxQgWMXdYcWZxNOJb-57" value="&lt;span style=&quot;font-size: 14px&quot;&gt;シナリオレベル決定&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="731" y="-32" width="217" height="46" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-69" value="1. シナリオレベルの決定&lt;br&gt;シナリオLvl = パーティLvlの平均 / 2 (端数切り上げ) + 難易度" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1107" y="-47" width="335" height="89" as="geometry"/>
+          <mxGeometry x="1103" y="-138" width="349" height="59" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-70" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;難易度&lt;/td&gt;&lt;td&gt;レベル修正&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;簡易&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;標準&lt;/td&gt;&lt;td&gt;+0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;逆境&lt;/td&gt;&lt;td&gt;+1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;逢魔&lt;/td&gt;&lt;td&gt;+2&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1455" y="-51" width="179" height="176" as="geometry"/>
+          <mxGeometry x="1465" y="-206" width="179" height="176" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-72" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;シナリオLvl&lt;/td&gt;&lt;td&gt;モンスターLvl&lt;/td&gt;&lt;td&gt;旧貨幣G変換レート&lt;/td&gt;&lt;td&gt;罠からのダメージ&lt;/td&gt;&lt;td&gt;追加経験点&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;14&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1103" y="138" width="528" height="160" as="geometry"/>
+          <mxGeometry x="1103" y="-16" width="541" height="160" as="geometry"/>
         </mxCell>
         <mxCell id="3f2KEundYw5zqV8YlQde-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nTEPxQgWMXdYcWZxNOJb-77" target="3f2KEundYw5zqV8YlQde-3">
           <mxGeometry relative="1" as="geometry"/>
@@ -261,6 +267,9 @@
         </mxCell>
         <mxCell id="3f2KEundYw5zqV8YlQde-14" value="&lt;font style=&quot;font-size: 21px&quot;&gt;ラウンド&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="728" y="68" width="94" height="21" as="geometry"/>
+        </mxCell>
+        <mxCell id="3f2KEundYw5zqV8YlQde-15" value="以下を場に配置&lt;br&gt;1. シナリオ冊子を参照して地形タイルを組み合わせる&lt;br&gt;2. 最初の部屋に「上書きタイル」「モンスターコマ」「キャラクターコマ」&lt;br&gt;3. シナリオに表記されている全モンスターのデータシートにシナリオLvlに対応モンスターLvlで設定する。&lt;br&gt;4. 全モンスターの能力カード山(要シャッフル)&lt;br&gt;5. 「m」と示されたモンスター用の攻撃修正カード山(要シャッフル)&lt;br&gt;6. プレイヤーは自分のキャラごとに以下を受け取る&lt;br&gt;　a. キャラクター・ボード&lt;br&gt;　b. 能力カード(手札)&lt;br&gt;　c. キャラクター・トークン&lt;br&gt;　d. HP/XP ダイヤル&lt;br&gt;　e.ランダム２枚の戦闘任務カードから１枚選択&lt;br&gt;　f. 装備するアイテム・カード&lt;br&gt;　g. 攻撃修正カード山&lt;br&gt;7. 元素注入ボードの「不活性」欄に元素ディスクを6つ配置&lt;br&gt;8. 各トークンを「共通在庫」として中央付近に配置" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="656" y="-466" width="426" height="252" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
