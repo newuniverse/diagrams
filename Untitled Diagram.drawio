@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-25T06:40:57.582Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="1Ruync9nyVD4TWc6GY2b" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-25T08:15:23.751Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="wQFPBxmGTCaH8ndlLAgn" version="12.5.6" type="github">
   <diagram id="3NKYa5tas9-b_GpQdYaY" name="GH">
     <mxGraphModel dx="1923" dy="1431" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -75,10 +75,10 @@
           <mxGeometry x="29" y="-86" width="140" height="46" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-1" value="1. GHへの訪問１回ごとに「大樽の聖域」に10Gに寄付可&lt;br&gt;次のシナリオにおいて攻撃修正の山に祝福カードx2を追加" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-611" y="530" width="335" height="58" as="geometry"/>
+          <mxGeometry x="-611" y="543" width="335" height="58" as="geometry"/>
         </mxCell>
-        <mxCell id="nTEPxQgWMXdYcWZxNOJb-7" value="1. 街のイベント山から１枚引き、表面の文章を読む&lt;br&gt;2. ２つの選択肢からパーティで決定し、裏返して、結果を適用する（更に結果がクラスや名声によって分岐する場合がある）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-611" y="457" width="335" height="60" as="geometry"/>
+        <mxCell id="nTEPxQgWMXdYcWZxNOJb-7" value="0. 初回は野外イベントは001-030&lt;br&gt;1. 街のイベント山から１枚引き、表面の文章を読む&lt;br&gt;2. ２つの選択肢からパーティで決定し、裏返して、結果を適用する（更に結果がクラスや名声によって分岐する場合がある）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-611" y="457" width="335" height="74" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-9" value="1. 世界の変革&amp;lt;向上の力&amp;gt;が発生しているなら、ゴールドを消費して能力カードの効果を向上させることができる。&lt;br&gt;2. 向上効果はそのキャラクタークラスにずっと受け継がれる&lt;br&gt;（引退して、新規に同キャラクターを作成した場合も）&lt;br&gt;必要ゴールドは説明書p46-47参照" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
           <mxGeometry x="-612" y="350" width="334" height="99" as="geometry"/>
@@ -187,7 +187,7 @@
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-53" value="&lt;span style=&quot;font-size: 14px&quot;&gt;GloomHavenから出発&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="206" y="194" width="88" height="66" as="geometry"/>
         </mxCell>
-        <mxCell id="nTEPxQgWMXdYcWZxNOJb-55" value="1. 野外のイベント山から１枚引き、表面の文章を読む&lt;br&gt;2. ２つの選択肢からパーティで決定し、裏返して、結果を必ず適用する（更に結果がクラスや名声によって分岐する場合がある）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
+        <mxCell id="nTEPxQgWMXdYcWZxNOJb-55" value="0. 初回は野外イベントは001-030&lt;br&gt;1. 野外のイベント山から１枚引き、表面の文章を読む&lt;br&gt;2. ２つの選択肢からパーティで決定し、裏返して、結果を必ず適用する（更に結果がクラスや名声によって分岐する場合がある）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
           <mxGeometry x="314.5" y="95" width="230" height="104" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-56" value="&lt;span style=&quot;font-size: 14px&quot;&gt;場のセットアップ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
