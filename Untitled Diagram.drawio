@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-25T16:45:59.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="vKzOgIep14NCarn35hQy" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-25T16:55:21.247Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="whXYWCdhOs6hoanhZ6G0" version="12.5.8" type="github">
   <diagram id="3NKYa5tas9-b_GpQdYaY" name="GH">
-    <mxGraphModel dx="1249" dy="1053" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2765" dy="1905" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -114,13 +114,13 @@
           <mxGeometry width="179" height="176" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-24" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-158" y="-336" width="364" height="181" as="geometry"/>
+          <mxGeometry x="-217" y="-414" width="364" height="181" as="geometry"/>
         </mxCell>
         <mxCell id="mH176XfYf9VPQPwhGffp-29" value="1. シナリオやイベントで「アイテム設計」の報酬獲得後、指定種類の全カードを在庫に追加&lt;br&gt;&lt;br&gt;2. 表の街の「繁栄レベル」に従い、アイテムカードを在庫に追加&lt;br&gt;&lt;br&gt;3. 引退したキャラクターの全アイテムは在庫になる" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="nTEPxQgWMXdYcWZxNOJb-24" vertex="1">
-          <mxGeometry y="-76" width="180" height="181" as="geometry"/>
+          <mxGeometry width="180" height="181" as="geometry"/>
         </mxCell>
         <mxCell id="mH176XfYf9VPQPwhGffp-30" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;繁栄レベル&lt;/td&gt;&lt;td&gt;アイテムカード番号&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;001-014&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;015-021&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;022-028&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;029-035&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;036-042&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;043-049&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;050-056&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;057-063&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;064-070&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;align=center;" parent="nTEPxQgWMXdYcWZxNOJb-24" vertex="1">
-          <mxGeometry x="185" y="-71" width="179" height="176" as="geometry"/>
+          <mxGeometry x="185" y="5" width="179" height="176" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" parent="1" source="nTEPxQgWMXdYcWZxNOJb-27" target="nTEPxQgWMXdYcWZxNOJb-35" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -154,10 +154,16 @@
           <mxGeometry x="-167" y="-186" width="78" height="22" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="nTEPxQgWMXdYcWZxNOJb-43" target="nTEPxQgWMXdYcWZxNOJb-44" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="96"/>
+              <mxPoint x="640" y="96"/>
+              <mxPoint x="640" y="26"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;野外イベント&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="321" y="45" width="217" height="46" as="geometry"/>
+          <mxGeometry x="319.5" y="115.5" width="217" height="46" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#2D7600;fillColor=#60a917;" parent="1" source="nTEPxQgWMXdYcWZxNOJb-44" target="nTEPxQgWMXdYcWZxNOJb-43" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -181,7 +187,7 @@
           <mxGeometry x="206" y="194" width="88" height="66" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-55" value="0. 初期の野外イベントは001-030&lt;br&gt;1. 野外のイベント山から１枚引き、表面の文章を読む&lt;br&gt;2. ２つの選択肢からパーティで決定し、裏返して、結果を必ず適用する（更に結果がクラスや名声によって分岐する場合がある）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
-          <mxGeometry x="314.5" y="95" width="230" height="104" as="geometry"/>
+          <mxGeometry x="313" y="165.5" width="230" height="104" as="geometry"/>
         </mxCell>
         <mxCell id="3f2KEundYw5zqV8YlQde-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nTEPxQgWMXdYcWZxNOJb-56" target="3f2KEundYw5zqV8YlQde-15" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -331,8 +337,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="568QYv9yESbU8mpqT_rm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="568QYv9yESbU8mpqT_rm-5" target="568QYv9yESbU8mpqT_rm-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="568QYv9yESbU8mpqT_rm-5" value="&lt;span style=&quot;font-size: 14px&quot;&gt;世界の変革&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="370.5" y="-189" width="130" height="46" as="geometry"/>
+        </mxCell>
+        <mxCell id="568QYv9yESbU8mpqT_rm-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="-118" width="362" height="186" as="geometry"/>
+        </mxCell>
+        <mxCell id="568QYv9yESbU8mpqT_rm-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;パーティ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="-109" width="106" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="568QYv9yESbU8mpqT_rm-14" value="1. 世界の変革はゲーム世界全体に影響を及ぼします&lt;br&gt;2. 地図の上端にある欄の対応するスペースにステッカーを貼り管理&lt;br&gt;3. 同じ形状で同じ背景の変革は同じタイプであるので、上書きしていき、最新のものが効果を発揮します" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="213" y="-411" width="335" height="92" as="geometry"/>
+        </mxCell>
+        <mxCell id="568QYv9yESbU8mpqT_rm-16" value="&lt;span style=&quot;font-size: 14px&quot;&gt;パーティの実績&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="277" y="-78" width="130" height="46" as="geometry"/>
+        </mxCell>
+        <mxCell id="568QYv9yESbU8mpqT_rm-17" value="別のパーティーには影響せず、主にそのキャンペーンでそのパーティがどのシナリオをプレイできるか規定します。&lt;br&gt;シナリオの解放や名声など" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="275" y="-28" width="335" height="92" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
