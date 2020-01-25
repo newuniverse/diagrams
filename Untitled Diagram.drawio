@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2020-01-25T06:21:57.924Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="4aCBBHsHIsebDJRY0uFA" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-25T06:27:11.107Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="ouS3S5nHFjYDee0pzqAs" version="12.5.6" type="github">
   <diagram id="3NKYa5tas9-b_GpQdYaY" name="GH">
-    <mxGraphModel dx="2765" dy="1905" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2372" dy="1684" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-40" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-212" y="-206" width="1413" height="797" as="geometry"/>
+          <mxGeometry x="-212" y="-206" width="1295" height="797" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="mH176XfYf9VPQPwhGffp-5" target="nTEPxQgWMXdYcWZxNOJb-43">
           <mxGeometry relative="1" as="geometry"/>
@@ -89,7 +89,7 @@
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-14" value="&lt;span style=&quot;font-size: 14px&quot;&gt;キャラクター引退表明&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-85.5" y="406" width="217" height="46" as="geometry"/>
         </mxCell>
-        <mxCell id="nTEPxQgWMXdYcWZxNOJb-16" value="1. 個人クエストを完遂した場合&lt;br&gt;　a. 保有しているアイテムを街の在庫へ戻す&lt;br&gt;　b. 保有ゴールドを失う&lt;br&gt;　c. 街の「繁栄度」+1&lt;br&gt;　d. 個人クエストカードはゲームから除外&lt;br&gt;&lt;br&gt;2. そのクラスの最初の引退の場合、キャラボード背面の右下にある ?/ ! (!の数字)と、そのクラスの引退によって初めて解放されたクラスの?/ ! (?の数字)の以下を解放&lt;br&gt;　a. 街イベントを解放&lt;br&gt;&amp;nbsp; &amp;nbsp; b. 野外イベントを解放&lt;br&gt;&lt;br&gt;3. キャラクターの引退により解放される「封印の箱」「封書」が他の理由ですでに解放されていた場合、以下を解放&lt;br&gt;　a. ランダム・「アイテム設計」1&lt;br&gt;　b. ランダム・「サイド・シナリオ」1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
+        <mxCell id="nTEPxQgWMXdYcWZxNOJb-16" value="1. 個人クエストを完遂した場合&lt;br&gt;　a. 保有しているアイテムを街の在庫へ戻す&lt;br&gt;　b. 保有ゴールドを失う&lt;br&gt;　c. 街の「繁栄度」+1&lt;br&gt;　d. 個人クエストカードはゲームから除外&lt;br&gt;&lt;br&gt;2. そのクラスの最初の引退の場合、キャラボード背面の右下にある ?/ ! (!の数字)と、そのクラスの引退によって初めて解放されたクラスの?/ ! (?の数字)の以下を解放&lt;br&gt;　a. 街イベントを解放&lt;br&gt;&amp;nbsp; &amp;nbsp; b. 野外イベントを解放&lt;br&gt;&lt;br&gt;3. キャラクターの引退により解放される「封印の箱」「封書」が他の理由ですでに解放されていた場合、以下を解放&lt;br&gt;　a. 「ランダム・アイテム設計」x1&lt;br&gt;　b. 「ランダム・サイドシナリオ」x1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
           <mxGeometry x="-141.5" y="613" width="331" height="259" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-23" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-55" value="1. 野外のイベント山から１枚引き、表面の文章を読む&lt;br&gt;2. ２つの選択肢からパーティで決定し、裏返して、結果を必ず適用する（更に結果がクラスや名声によって分岐する場合がある）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
           <mxGeometry x="314.5" y="95" width="230" height="104" as="geometry"/>
+        </mxCell>
+        <mxCell id="nTEPxQgWMXdYcWZxNOJb-56" value="&lt;span style=&quot;font-size: 14px&quot;&gt;シナリオ セットアップ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="731" y="-93" width="217" height="46" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
