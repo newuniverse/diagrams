@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-26T13:21:26.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="EnDFgeDsir5QXl9_Ltqb" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-26T13:21:56.108Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="JizGK5GEDTfx8-O1TXnG" version="12.5.8" type="github">
   <diagram id="3NKYa5tas9-b_GpQdYaY" name="GH">
     <mxGraphModel dx="2323" dy="1501" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -182,8 +182,8 @@
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;野外イベント&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="319.5" y="115.5" width="217" height="46" as="geometry"/>
         </mxCell>
-        <mxCell id="nTEPxQgWMXdYcWZxNOJb-45" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;シナリオ&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="663" y="-129" width="106" height="22" as="geometry"/>
+        <mxCell id="nTEPxQgWMXdYcWZxNOJb-45" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Senario&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="667" y="-129" width="98" height="22" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-48" value="&lt;font style=&quot;font-size: 14px&quot;&gt;成否関係なく&lt;br&gt;非連結の別&lt;br&gt;シナリオへ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="565" y="162" width="88" height="66" as="geometry"/>
@@ -289,8 +289,8 @@
         <mxCell id="3f2KEundYw5zqV8YlQde-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="731" y="290" width="217" height="46" as="geometry"/>
         </mxCell>
-        <mxCell id="3f2KEundYw5zqV8YlQde-14" value="&lt;font style=&quot;font-size: 21px&quot;&gt;ラウンド&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="728" y="68" width="94" height="21" as="geometry"/>
+        <mxCell id="3f2KEundYw5zqV8YlQde-14" value="&lt;font style=&quot;font-size: 21px&quot;&gt;Round&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="739" y="68" width="72" height="21" as="geometry"/>
         </mxCell>
         <mxCell id="3f2KEundYw5zqV8YlQde-15" value="以下を場に配置&lt;br&gt;1. シナリオ冊子を参照して地形タイルを組み合わせる&lt;br&gt;2. 最初の部屋に「上書きタイル」「モンスターコマ」「キャラクターコマ」&lt;br&gt;3. シナリオに表記されている全モンスターのデータシートにシナリオLvlに対応モンスターLvlで設定する。&lt;br&gt;4. 全モンスターの能力カード山(要シャッフル)&lt;br&gt;5. 「m」と示されたモンスター用の攻撃修正カード山(要シャッフル)&lt;br&gt;6. プレイヤーは自分のキャラごとに以下を受け取る&lt;br&gt;　a. キャラクター・ボード&lt;br&gt;　b. 能力カード(手札)&lt;br&gt;　c. キャラクター・トークン&lt;br&gt;　d. HP/XP ダイヤル&lt;br&gt;　e.ランダム２枚の戦闘任務カードから１枚選択&lt;br&gt;　f. 装備するアイテム・カード&lt;br&gt;　g. 攻撃修正カード山&lt;br&gt;7. シナリオに書かれた指示に従い攻撃修正カード山や負のカードを調整&lt;br&gt;8. 元素注入ボードの「不活性」欄に元素ディスクを6つ配置&lt;br&gt;9. 各トークンを「共通在庫」として中央付近に配置" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
           <mxGeometry x="835" y="-501" width="426" height="271" as="geometry"/>
@@ -352,8 +352,8 @@
         <mxCell id="568QYv9yESbU8mpqT_rm-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="259" y="-118" width="362" height="186" as="geometry"/>
         </mxCell>
-        <mxCell id="568QYv9yESbU8mpqT_rm-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;パーティ&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="274" y="-109" width="106" height="22" as="geometry"/>
+        <mxCell id="568QYv9yESbU8mpqT_rm-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Party&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="292" y="-109" width="70" height="22" as="geometry"/>
         </mxCell>
         <mxCell id="568QYv9yESbU8mpqT_rm-14" value="1. 世界の変革はゲーム世界全体に影響を及ぼします&lt;br&gt;&lt;br&gt;2. 地図の上端にある欄の対応するスペースにステッカーを貼り管理&lt;br&gt;&lt;br&gt;3. 同じ形状で同じ背景の変革は同じタイプであるので、上書きしていき、最新のものが効果を発揮します&lt;br&gt;&lt;br&gt;4. 世界の変革&amp;lt;古代技術&amp;gt;ランク5 で封書Aを開封" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
           <mxGeometry x="165.5" y="-411" width="335" height="142" as="geometry"/>
