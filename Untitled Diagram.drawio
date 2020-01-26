@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-26T13:06:40.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="0FZzJdKX4iWxSh_kah4F" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-26T13:06:53.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="RyL94T6C2qS0yktz7GBL" version="12.5.8" type="github">
   <diagram id="3NKYa5tas9-b_GpQdYaY" name="GH">
     <mxGraphModel dx="2110" dy="1618" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -139,9 +139,6 @@
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-27" value="&lt;span style=&quot;font-size: 14px&quot;&gt;繁栄度/レベル&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-112" y="-86" width="130" height="46" as="geometry"/>
-        </mxCell>
-        <mxCell id="PXK0GJ5X-5zRUGpx_mOW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.001;exitY=0.739;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.002;entryY=0.411;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;dashed=1;" edge="1" parent="1" source="nTEPxQgWMXdYcWZxNOJb-35" target="mH176XfYf9VPQPwhGffp-19">
-          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-35" value="1.特定のイベント・シナリオ・キャラクター引退により繁栄度が上がり、一定度上がるの繁栄レベルが上がる&lt;br&gt;2. 繁栄レベルがあがると&lt;br&gt;　a. 「街の在庫」に新規アイテムの追加&lt;br&gt;　b. 新規キャラが繁栄レベルと同じレベルでゲームを開始&lt;br&gt;　c. 向上された能力カードの上限=繁栄レベル" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
           <mxGeometry x="-612" y="-251" width="335" height="92" as="geometry"/>
