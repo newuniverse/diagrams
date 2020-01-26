@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-26T13:14:25.433Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="bh5IHiZZYz_jmg8QqRdb" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-26T13:16:38.096Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="QAgLo9QxR1XS73xH0OqH" version="12.5.8" type="github">
   <diagram id="3NKYa5tas9-b_GpQdYaY" name="GH">
-    <mxGraphModel dx="2125" dy="1378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2323" dy="1501" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -53,19 +53,34 @@
           <mxGeometry x="-85.5" y="98" width="217" height="46" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=335;entryDy=74.5;entryPerimeter=0;" parent="1" source="mH176XfYf9VPQPwhGffp-10" target="mH176XfYf9VPQPwhGffp-32" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-262" y="175"/>
+              <mxPoint x="-262" y="313"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mH176XfYf9VPQPwhGffp-10" value="&lt;span style=&quot;font-size: 14px&quot;&gt;レベルアップ&amp;amp;特典&amp;amp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;手札構築&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-85.5" y="152" width="217" height="46" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=334;entryDy=56.5;entryPerimeter=0;strokeWidth=1;" parent="1" source="mH176XfYf9VPQPwhGffp-11" target="nTEPxQgWMXdYcWZxNOJb-9" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-240" y="229"/>
+              <mxPoint x="-240" y="552"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mH176XfYf9VPQPwhGffp-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;能力カードの向上&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-85.5" y="206" width="217" height="46" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=335;entryDy=36;entryPerimeter=0;" parent="1" source="mH176XfYf9VPQPwhGffp-12" target="nTEPxQgWMXdYcWZxNOJb-7" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-223" y="283"/>
+              <mxPoint x="-223" y="682"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mH176XfYf9VPQPwhGffp-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;街のイベント&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-85.5" y="260" width="217" height="46" as="geometry"/>
