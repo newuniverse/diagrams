@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-26T12:54:25.116Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="34Xs3IBT5CJH1gitCGA_" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-26T12:55:00.976Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="6PTpgE_K7f6BCQeXrzf8" version="12.5.8" type="github">
   <diagram id="3NKYa5tas9-b_GpQdYaY" name="GH">
     <mxGraphModel dx="2372" dy="1782" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -392,7 +392,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PXK0GJ5X-5zRUGpx_mOW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="PXK0GJ5X-5zRUGpx_mOW-10" target="PXK0GJ5X-5zRUGpx_mOW-28">
+        <mxCell id="PXK0GJ5X-5zRUGpx_mOW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=243.5;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="PXK0GJ5X-5zRUGpx_mOW-10" target="PXK0GJ5X-5zRUGpx_mOW-28">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="PXK0GJ5X-5zRUGpx_mOW-10" value="&lt;span style=&quot;font-size: 14px&quot;&gt;シナリオの成否&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -405,7 +405,7 @@
           <mxGeometry x="533" y="492" width="96" height="72" as="geometry"/>
         </mxCell>
         <mxCell id="PXK0GJ5X-5zRUGpx_mOW-28" value="シナリオ失敗：&lt;br&gt;1. 獲得した&amp;lt;経験点&amp;gt;&lt;br&gt;2. 旧貨幣 x 変換レート分の&amp;lt;ゴールド&amp;gt; を獲得&lt;br&gt;（キャラ記録シートに記入）&lt;br&gt;&lt;br&gt;シナリオ成功：&lt;br&gt;1. シナリオ失敗で得られるものに加え&lt;br&gt;2. 戦闘任務カードを完遂したら、キャラ記録シートの備考欄にカード記載分のチェックを入れる(3つ溜まったら、追加特典を一つ獲得)&lt;br&gt;3. 追加経験点 = (4 + シナリオLvl x 2) を獲得&lt;br&gt;4. シナリオ終幕末尾にかかれている特典を獲得&lt;br&gt;（それが何かを失うよう指示された場合は、不足してもあるだけ失う）&lt;br&gt;　a. パーティの実績（パーティシートに記入）&lt;br&gt;　b. 追加ゴールド（パーティで分配）&lt;br&gt;　c. 各キャラクターへの追加経験点&lt;br&gt;　d. 繁栄度上昇&lt;br&gt;　e. 新たなイベントor シナリオ解放&lt;br&gt;　f. 新規アイテム獲得or設計(該当アイテムを街の在庫へ追加)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" vertex="1" parent="1">
-          <mxGeometry x="413" y="610" width="293" height="305" as="geometry"/>
+          <mxGeometry x="206" y="610" width="501" height="265" as="geometry"/>
         </mxCell>
         <mxCell id="PXK0GJ5X-5zRUGpx_mOW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="nTEPxQgWMXdYcWZxNOJb-77" target="PXK0GJ5X-5zRUGpx_mOW-10">
           <mxGeometry relative="1" as="geometry">
