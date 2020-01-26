@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-26T14:16:23.906Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="n4vn3QuWHzP_3GOsN00L" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-26T14:17:01.224Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="XjPX2tFti12H8jdT_Imc" version="12.5.8" type="github">
   <diagram id="3NKYa5tas9-b_GpQdYaY" name="GH">
-    <mxGraphModel dx="1514" dy="977" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2772" dy="1684" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -178,8 +178,8 @@
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;野外イベント&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="319.5" y="115.5" width="217" height="46" as="geometry"/>
         </mxCell>
-        <mxCell id="nTEPxQgWMXdYcWZxNOJb-45" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;シナリオ&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="663" y="-129" width="106" height="22" as="geometry"/>
+        <mxCell id="nTEPxQgWMXdYcWZxNOJb-45" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;シナリオ(ダンジョン)&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="661" y="-128" width="242" height="22" as="geometry"/>
         </mxCell>
         <mxCell id="nTEPxQgWMXdYcWZxNOJb-48" value="&lt;font style=&quot;font-size: 14px&quot;&gt;成否関係なく&lt;br&gt;非連結の別&lt;br&gt;シナリオへ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="565" y="162" width="88" height="66" as="geometry"/>
