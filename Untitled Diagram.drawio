@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-26T13:13:50.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="ubGMId4LuJ1vacDg61Sd" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-26T13:14:25.433Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="bh5IHiZZYz_jmg8QqRdb" version="12.5.8" type="github">
   <diagram id="3NKYa5tas9-b_GpQdYaY" name="GH">
-    <mxGraphModel dx="2772" dy="1782" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2125" dy="1378" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -234,8 +234,8 @@
         <mxCell id="3f2KEundYw5zqV8YlQde-2" value="&lt;span style=&quot;font-size: 14px&quot;&gt;失敗して戻る&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="327" width="88" height="66" as="geometry"/>
         </mxCell>
-        <mxCell id="3f2KEundYw5zqV8YlQde-3" value="1. 以下の条件のどちらかで脱落、キャラクターを取り除く&lt;br&gt;　a. HP ≦ 0&amp;nbsp;&lt;br&gt;　b. ラウンド開始時、２枚プレイも大休息もできなく手札不足&lt;br&gt;2. 全キャラクターが脱落するとシナリオ「敗北」で終了&lt;br&gt;3. シナリオの条件をクリアしたら成功" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
-          <mxGeometry x="719" y="606" width="364" height="89" as="geometry"/>
+        <mxCell id="3f2KEundYw5zqV8YlQde-3" value="1. 以下の条件のどちらかで脱落、キャラクターを取り除く&lt;br&gt;　a. HP ≦ 0&amp;nbsp;&lt;br&gt;　b. ラウンド開始時、２枚プレイも大休息もできなく手札不足&lt;br&gt;&lt;br&gt;2. 全キャラクターが脱落するとシナリオ「敗北」で終了&lt;br&gt;&lt;br&gt;3. シナリオの条件をクリアしたら成功" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
+          <mxGeometry x="719" y="606" width="364" height="136" as="geometry"/>
         </mxCell>
         <mxCell id="3f2KEundYw5zqV8YlQde-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3f2KEundYw5zqV8YlQde-9" target="3f2KEundYw5zqV8YlQde-18" edge="1">
           <mxGeometry relative="1" as="geometry"/>
