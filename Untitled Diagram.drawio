@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-26T13:32:46.090Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="LYpl1nNP8C33NUe5vK0C" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-26T13:33:04.140Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="15JYwxHfvAUel6zhMwTB" version="12.5.8" type="github">
   <diagram id="3NKYa5tas9-b_GpQdYaY" name="GH">
-    <mxGraphModel dx="3820" dy="2437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1986" dy="1291" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -94,12 +94,8 @@
         <mxCell id="mH176XfYf9VPQPwhGffp-28" value="1. 半額(端数切捨)でアイテム売却可&lt;br&gt;&lt;br&gt;2. 売却されたアイテムは街の在庫に追加&lt;br&gt;&lt;br&gt;3. 同じキャラクターが複数の同じアイテムは保有不可&lt;br&gt;&lt;br&gt;4. 装備(シナリオ持込)上限&lt;br&gt;　1枚：&lt;br&gt;　&lt;br&gt;&amp;nbsp; &amp;nbsp; レベル / 2 (端数切り上げ)枚：&lt;br&gt;　" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=14;align=left;" parent="1" vertex="1">
           <mxGeometry x="-619" y="70" width="335" height="158" as="geometry"/>
         </mxCell>
-        <mxCell id="nTEPxQgWMXdYcWZxNOJb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;" parent="1" source="mH176XfYf9VPQPwhGffp-31" target="mH176XfYf9VPQPwhGffp-30" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="98" y="-232"/>
-            </Array>
-          </mxGeometry>
+        <mxCell id="PXK0GJ5X-5zRUGpx_mOW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="mH176XfYf9VPQPwhGffp-31" target="mH176XfYf9VPQPwhGffp-30">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="mH176XfYf9VPQPwhGffp-31" value="&lt;span style=&quot;font-size: 14px&quot;&gt;街の在庫(店)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="29" y="-86" width="140" height="46" as="geometry"/>
